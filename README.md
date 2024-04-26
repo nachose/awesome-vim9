@@ -55,9 +55,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | Description | Maintained |
-| --- | --- | --- |
-| [auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ✅ |
+| Name                                                                  | Description            | Maintained |
+| ---                                                                   | ---                    | ---        |
+| [auto-pairs](https://github.com/Eliot00/auto-pairs)                   | Vim9 auto pairs plugin | ✅         |
+| [vim9-toggle-words](https://github.com/AllanDowney/vim9-toggle-words) | Toggle words plugin    | ❎         |
 
 ## File Management
 
